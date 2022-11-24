@@ -1,0 +1,31 @@
+{
+  "name": "ui-lib",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^15.0.0",
+    "@angular/core": "^15.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "module": "fesm2015/ui-lib.mjs",
+  "es2020": "fesm2020/ui-lib.mjs",
+  "esm2020": "esm2020/ui-lib.mjs",
+  "fesm2020": "fesm2020/ui-lib.mjs",
+  "fesm2015": "fesm2015/ui-lib.mjs",
+  "typings": "index.d.ts",
+  "exports": {
+    "./package.json": {
+      "default": "./package.json"
+    },
+    ".": {
+      "types": "./index.d.ts",
+      "esm2020": "./esm2020/ui-lib.mjs",
+      "es2020": "./fesm2020/ui-lib.mjs",
+      "es2015": "./fesm2015/ui-lib.mjs",
+      "node": "./fesm2015/ui-lib.mjs",
+      "default": "./fesm2020/ui-lib.mjs"
+    }
+  },
+  "sideEffects": false
+}

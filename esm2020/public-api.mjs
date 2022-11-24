@@ -1,0 +1,6 @@
+/*
+ * Public API Surface of ui-lib
+ */
+export * from './lib/button/button.component';
+export * from './lib/button/button.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL3VpLWxpYi9zcmMvcHVibGljLWFwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7R0FFRztBQUVILGNBQWMsK0JBQStCLENBQUM7QUFDOUMsY0FBYyw0QkFBNEIsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2YgdWktbGliXG4gKi9cblxuZXhwb3J0ICogZnJvbSAnLi9saWIvYnV0dG9uL2J1dHRvbi5jb21wb25lbnQnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvYnV0dG9uL2J1dHRvbi5tb2R1bGUnO1xuIl19
